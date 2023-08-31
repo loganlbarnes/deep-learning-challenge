@@ -30,7 +30,7 @@ This analysis involves using deep learning to classify the success of charitable
   - **In Optimization 3:**
     - Three hidden layers with 80 neurons each. The first layer used ReLU activation while the next two used tanh. The output layer used a sigmoid activation function. Epochs were also increased to 200 to see if that has an affect on accuracy.
     - Loss: 0.5582984089851379, Accuracy: 0.7258309125900269
-   <img width="849" alt="Screen Shot 2023-08-31 at 8 40 14 AM" src="https://github.com/loganlbarnes/deep-learning-challenge/assets/128556117/ada4d496-bb84-43d4-862e-c9f505dc1f46">
+    <img width="849" alt="Screen Shot 2023-08-31 at 8 40 14 AM" src="https://github.com/loganlbarnes/deep-learning-challenge/assets/128556117/ada4d496-bb84-43d4-862e-c9f505dc1f46">
 
 - **Were you able to achieve the target model performance?**
   - No, none of the optimization attempts resulted in an accuracy above 75%.
